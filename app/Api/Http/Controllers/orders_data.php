@@ -95,7 +95,7 @@ return [
             ],
             [
                 'code' => 'B071GRCXJV',
-                'title' => 'T4U 5.25" Distinctive Stone Shape Sucuulent Cactus Plant Pots Flower Pots Planters',
+                'title' => 'T4U 5.25" Distinctive Stone Shape Succulent Cactus Plant Pots Flower Pots Planters',
                 'description' => 'Small Ceramic Plant Pots - Perfect for holding succulent, herbs and cactus plants. ',
                 'price' => '17.93',
                 'quantity' => 1
