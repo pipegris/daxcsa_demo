@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="{{ asset('css/orders.css') }}">
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
     <span class="navbar-brand mb-0 h1">DAXCSA</span>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">

@@ -28,13 +28,12 @@
                 <div class="row no-gutters">
                     <div class="col-md-2 align-self-center text-center">
                         <div class="card-block">
-                            <img src="https://picsum.photos/100?random={{$item['code']}}" class="" alt="...">
+                            <img src="https://picsum.photos/90?random={{$item['code']}}" alt="Product {{ $item['code'] }}">
                         </div>
                     </div>
                     <div class="col-md-7">
                         <div class="card-body">
                             <h5 class="card-title text-truncate">{{ $item['title'] }}</h5>
-                            <div class="mb-1 card-text text-truncate">{{ $item['description'] }}</div>
                             <div class="card-text row">
                                 <div class="col-6">
                                     $ {{ $item['price'] }}&nbsp;<small class="text-muted">

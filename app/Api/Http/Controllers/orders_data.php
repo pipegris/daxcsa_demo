@@ -89,14 +89,14 @@ return [
             [
                 'code' => 'B07DBJSDPN',
                 'title' => 'Groot Action Figures Fashion Guardians of The Galaxy Flowerpot',
-                'description' => 'Package: 100% Brand New With Best High-Quality Color: As the picture Material: High-Quality PVC Size: Approx 6 inch',
+                'description' => 'Package: 100% Brand New With Best High-Quality. Color: As the picture. Material: High-Quality PVC. Size: Approx 6 inch',
                 'price' => '6.99',
                 'quantity' => 2
             ],
             [
                 'code' => 'B071GRCXJV',
                 'title' => 'T4U 5.25" Distinctive Stone Shape Sucuulent Cactus Plant Pots Flower Pots Planters',
-                'description' => 'Small Ceramic Plant Pots - Perfect for holding succulent, herbs and catus plants. ',
+                'description' => 'Small Ceramic Plant Pots - Perfect for holding succulent, herbs and cactus plants. ',
                 'price' => '17.93',
                 'quantity' => 1
             ],

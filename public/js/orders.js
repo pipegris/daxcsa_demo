@@ -3,7 +3,7 @@
 
     $(function () {
 
-        let orderDetail = $('.order-detail');
+        let orderDetail = $('.order-details');
 
         orderDetail.find('.title').each(function() {
             $clamp(this, {clamp: 2});

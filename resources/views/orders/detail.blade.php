@@ -5,8 +5,8 @@
 
     <div class="row">
         <div class="col-md-8">
-            <div class="card order-detail">
-                <div class="card-header">Products</div>
+            <div class="card order-details">
+                <div class="card-header">Product list</div>
                 @foreach($order['items'] as $item)
                     <div class="row no-gutters">
                         <div class="col-md-2 align-self-center text-center">
@@ -16,7 +16,7 @@
                         </div>
                         <div class="col-md-7">
                             <div class="card-body">
-                                <h5 class="card-title">{{ $item['title'] }}</h5>
+                                <h5 class="card-title title">{{ $item['title'] }}</h5>
                                 <div class="mb-1 card-text description">{{ $item['description'] }}</div>
                                 <div class="card-text row">
                                     <div class="col-6">
@@ -83,7 +83,7 @@
                 </div>
             </div>
             <br>
-            <div class="text-center d-block d-sm-none">
+            <div class="text-center">
                 <a href="/orders" class="btn btn-primary">Back to order list</a>
             </div>
         </div>
